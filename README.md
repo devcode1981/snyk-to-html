@@ -2,7 +2,7 @@
 
 ---
 
-# Snyk JSON to HTML Mapper
+# Snyk JSON to HTML Mapper 
 
 The Snyk JSON to HTML Mapper takes the json outputted from `snyk test --json` and creates a local HTML file displaying the vulnerabilities discovered.
 
